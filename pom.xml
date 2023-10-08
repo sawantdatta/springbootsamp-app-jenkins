@@ -10,10 +10,10 @@
 	</parent>
 	<groupId>practice-example</groupId>
 	<artifactId>practice-example</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>practice-example</name>
 	<description>Practice Example</description>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
